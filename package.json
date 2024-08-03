@@ -1,0 +1,14 @@
+{
+  "name": "chatbot_ku",
+  "version": "0.0.0",
+  "description": "chatbot_ku",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
